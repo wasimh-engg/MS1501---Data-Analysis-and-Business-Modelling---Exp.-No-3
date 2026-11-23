@@ -140,6 +140,7 @@ Actual vs Predicted Sales:
 R-squared (R2) Score: 0.9736
 
 Predicted Sales for Advertising = 70 Lakhs: 55.14 Crores
+```
 <img width="1024" height="765" alt="image" src="https://github.com/user-attachments/assets/1a71d8f4-f7eb-4766-8d29-4914b685b730" />
 
 ##  Result
